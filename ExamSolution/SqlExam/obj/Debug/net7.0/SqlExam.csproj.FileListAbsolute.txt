@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExamSolution\SqlExam\bin\Debug\net7.0\SqlExam.exe
+C:\Users\User\Desktop\ExamSolution\SqlExam\bin\Debug\net7.0\SqlExam.deps.json
+C:\Users\User\Desktop\ExamSolution\SqlExam\bin\Debug\net7.0\SqlExam.runtimeconfig.json
+C:\Users\User\Desktop\ExamSolution\SqlExam\bin\Debug\net7.0\SqlExam.dll
+C:\Users\User\Desktop\ExamSolution\SqlExam\bin\Debug\net7.0\SqlExam.pdb
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.AssemblyInfo.cs
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.dll
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\refint\SqlExam.dll
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.pdb
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\SqlExam.genruntimeconfig.cache
+C:\Users\User\Desktop\ExamSolution\SqlExam\obj\Debug\net7.0\ref\SqlExam.dll
