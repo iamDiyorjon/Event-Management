@@ -1,0 +1,62 @@
+create database EvenetManage
+use EvenetManagement
+
+create table Room(
+id integer identity (1,1)  primary key,
+name varchar(20),
+capacity integer ,
+price decimal)
+
+create table Users
+(id integer identity (1,1) primary key,
+name varchar (20),
+role integer,
+parol varchar (20),
+login varchar (20))
+
+create table Orders(
+id integer identity (1,1) primary key,
+room_id integer references Room(id),
+user_id integer references Users(id),
+fromTime datetime,
+toTime datetime)
+
+create table UsersEvent(
+id integer identity (1,1) primary key,
+user_id integer references Users(id),
+order_id integer references Orders(id)) 
+
+
+insert into Room(
+name,capacity,price)values 
+('Tencent',150,300000),
+('uber',100,40000)
+
+
+insert into Users(name,role,parol,login)
+values('adminUser',0,'12345','Admin')
+
+insert into Users(name,role,parol,login)
+values('KRKA Company',1,'12345','Admin'),('Diyorjon',2,'12345','Diyorjon')
+
+insert into Users(name,role,parol,login)
+values('Ahmadjon',2,'12345','Ahmadjon_98'),
+('Azam',2,'54321','A_99999')
+
+insert into Orders(room_id,user_id,fromTime,toTime)
+values(2,2,'2022/12/12 16:00:00','2022/12/12 19:00:00'),
+(3,2,'2022/12/12','2022/12/20')
+
+
+insert into UsersEvent(user_id,order_id)
+values(4,1),(5,1),(4,2)
+
+
+select* from Users
+select* from Room
+select *from Orders
+
+
+
+
+

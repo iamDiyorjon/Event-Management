@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ExamSolution\\SqlExam\\SqlExam.csproj": {}
+    "C:\\Users\\User\\Desktop\\Event-Management\\ExamSolution\\SqlExam\\SqlExam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ExamSolution\\SqlExam\\SqlExam.csproj": {
+    "C:\\Users\\User\\Desktop\\Event-Management\\ExamSolution\\SqlExam\\SqlExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ExamSolution\\SqlExam\\SqlExam.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Event-Management\\ExamSolution\\SqlExam\\SqlExam.csproj",
         "projectName": "SqlExam",
-        "projectPath": "C:\\Users\\User\\Desktop\\ExamSolution\\SqlExam\\SqlExam.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Event-Management\\ExamSolution\\SqlExam\\SqlExam.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ExamSolution\\SqlExam\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Event-Management\\ExamSolution\\SqlExam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
